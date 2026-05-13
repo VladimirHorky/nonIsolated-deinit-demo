@@ -1,0 +1,17 @@
+# Xcode build artifacts
+build/
+DerivedData/
+*.xcuserdatad/
+*.xcuserstate
+xcuserdata/
+
+# Generated Xcode project (regenerate with `xcodegen generate`)
+Playground.xcodeproj/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
